@@ -1,0 +1,29 @@
+{
+  "Actions":
+  [
+    {
+      "Type": "Gesture",
+      "Name": "gesture1",
+    },
+    {
+      "Type": "Gesture",
+      "Name": "gesture2",
+    },
+    {
+      "Type": "Gesture",
+      "Name": "gesture3"
+    },
+    {
+      "Type": "Gesture",
+      "Name": "gesture4"
+    }
+  ],
+  "hardware": "kinect1",
+  "image_width": 112,
+  "image_height": 112,
+  "orig_width": 640,
+  "orig_height": 480,
+  "colour_width": 640,
+  "colour_height": 480,
+  "num_channels": 1
+}
